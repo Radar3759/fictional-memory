@@ -16,7 +16,7 @@ function fizzBuzz() {
         
         if  (i % 3 === 0 && i % 5 === 0) {
             document.querySelector('#stops').innerText += "\n FizzBuzz!"
-            document.querySelector('#listItem').innerHTML = image1
+            // document.querySelector('#listItem').innerHTML = image1
         } else if (i % 5 === 0) {
             document.querySelector('#stops').innerText += "\n Buzz!"
             // document.querySelector('#stops').attribute +=(image2)
