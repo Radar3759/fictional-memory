@@ -1,5 +1,4 @@
-# fictional-memory
-Fun with the Fizzbuzz challenge
+# [Fun with the Fizzbuzz challenge](https://radar3759.github.io/fictional-memory/)
 
 I wanted to have more fun with Fizzbuzz than console.log. 
 It's a work in progress. I'll come back to add more fun things. 
